@@ -1,0 +1,8 @@
+{
+  "name": "pingme-cli",
+  "app_id": "05f4d73d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
